@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  telaBloqueio
-//
-//  Created by User on 15/09/23.
-//
-
 import SwiftUI
 
 struct ContentView: View {
