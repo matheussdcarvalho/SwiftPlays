@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  listaTarefas
-//
-//  Created by User on 22/09/23.
-//
-
 import SwiftUI
 
 struct ContentView: View {
